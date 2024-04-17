@@ -35,4 +35,5 @@ console.log(typeof myFunction);
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-// stack Heap
+// stack(primitive) Heap(Non primitive)
+
